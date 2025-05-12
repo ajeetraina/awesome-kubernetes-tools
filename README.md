@@ -1,6 +1,6 @@
 # KubeTools Portal
 
-A web portal for browsing and discovering Kubernetes tools, hosted at [kubetools.ajeetraina.com](https://kubetools.ajeetraina.com).
+A web portal for browsing and discovering Kubernetes tools.
 
 ## Features
 
