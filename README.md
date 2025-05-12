@@ -22,8 +22,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ajeetraina/kubetools-portal.git
-   cd kubetools-portal
+   git clone https://github.com/ajeetraina/awesome-kubernetes-tools
+   cd awesome-kubernetes-tools
    ```
 
 2. Install dependencies:
